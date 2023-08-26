@@ -1,0 +1,15 @@
+.card-label__container{
+  position: absolute;
+  bottom: 90px;
+  right: 0;
+  background-color: rgba(0, 0, 0, 0.822);
+  color: white;
+  width: 100px;
+  height: 30px;
+  text-align: center;
+  text-transform: uppercase;
+  border-radius: 3px;
+}
+.card-label__content{
+  margin-top: 6px;
+}
